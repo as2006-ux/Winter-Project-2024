@@ -1,3 +1,4 @@
+// Student Management System - Winter Project 2024
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -115,5 +116,6 @@ int main() {
 
     return 0;
 }
-Added main program structure
 
+Added main program structure
+Added project comment header
