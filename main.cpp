@@ -115,3 +115,5 @@ int main() {
 
     return 0;
 }
+Added main program structure
+
