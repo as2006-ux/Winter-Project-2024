@@ -10,6 +10,7 @@ struct Student {
     char course[30];
 };
 
+// Function to add student
 void addStudent() {
     Student s;
     ofstream file("students.dat", ios::binary | ios::app);
@@ -119,3 +120,5 @@ int main() {
 
 Added main program structure
 Added project comment header
+Documented add student function
+
