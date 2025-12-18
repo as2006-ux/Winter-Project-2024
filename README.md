@@ -2,7 +2,7 @@
 ## Submitted for Winter Internship Program
 
 ## Project Title
-Student Management System (example)
+Student Management System 
 
 ## Description
 This project was developed as part of the Winter Project 2024.
@@ -15,7 +15,7 @@ It demonstrates practical use of programming concepts.
 - View records
 
 ## Technologies Used
-- C / Java / Python / HTML-CSS (mention what you used)
+- C++
 
 ## How to Run
 1. Clone the repository
